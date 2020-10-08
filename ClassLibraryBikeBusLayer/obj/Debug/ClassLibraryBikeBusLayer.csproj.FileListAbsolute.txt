@@ -1,0 +1,14 @@
+C:\Users\skryu\source\repos\PrjMyBike_WnForm2_Kryukova_Svetlana\ClassLibraryBikeBusLayer\bin\Debug\ClassLibraryBikeBusLayer.dll
+C:\Users\skryu\source\repos\PrjMyBike_WnForm2_Kryukova_Svetlana\ClassLibraryBikeBusLayer\bin\Debug\ClassLibraryBikeBusLayer.pdb
+C:\Users\skryu\source\repos\PrjMyBike_WnForm2_Kryukova_Svetlana\ClassLibraryBikeBusLayer\obj\Debug\ClassLibraryBikeBusLayer.dll
+C:\Users\skryu\source\repos\PrjMyBike_WnForm2_Kryukova_Svetlana\ClassLibraryBikeBusLayer\obj\Debug\ClassLibraryBikeBusLayer.pdb
+C:\Users\skryu\source\repos\Final_Evaluation\My_bike_Store_1935040\ClassLibraryBikeBusLayer\bin\Debug\ClassLibraryBikeBusLayer.dll
+C:\Users\skryu\source\repos\Final_Evaluation\My_bike_Store_1935040\ClassLibraryBikeBusLayer\bin\Debug\ClassLibraryBikeBusLayer.pdb
+C:\Users\skryu\source\repos\Final_Evaluation\My_bike_Store_1935040\ClassLibraryBikeBusLayer\obj\Debug\ClassLibraryBikeBusLayer.dll
+C:\Users\skryu\source\repos\Final_Evaluation\My_bike_Store_1935040\ClassLibraryBikeBusLayer\obj\Debug\ClassLibraryBikeBusLayer.pdb
+C:\Users\skryu\source\repos\Final_Evaluation\My_bike_Store_1935040\ClassLibraryBikeBusLayer\obj\Debug\ClassLibraryBikeBusLayer.csprojAssemblyReference.cache
+C:\Users\skryu\source\repos\Final_Evaluation(Last_Version)\My_bike_Store_1935040\ClassLibraryBikeBusLayer\bin\Debug\ClassLibraryBikeBusLayer.dll
+C:\Users\skryu\source\repos\Final_Evaluation(Last_Version)\My_bike_Store_1935040\ClassLibraryBikeBusLayer\bin\Debug\ClassLibraryBikeBusLayer.pdb
+C:\Users\skryu\source\repos\Final_Evaluation(Last_Version)\My_bike_Store_1935040\ClassLibraryBikeBusLayer\obj\Debug\ClassLibraryBikeBusLayer.dll
+C:\Users\skryu\source\repos\Final_Evaluation(Last_Version)\My_bike_Store_1935040\ClassLibraryBikeBusLayer\obj\Debug\ClassLibraryBikeBusLayer.pdb
+C:\Users\skryu\source\repos\Final_Evaluation(Last_Version)\My_bike_Store_1935040\ClassLibraryBikeBusLayer\obj\Debug\ClassLibraryBikeBusLayer.csprojAssemblyReference.cache
